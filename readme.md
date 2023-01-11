@@ -10,7 +10,7 @@ to get setup with this project you can follow the following steps.
     ```
 
 2. Install qrcode scanner to be able to connect the our whatsapp to the bot
-    ``zsh
+    ```zsh
     npm install qrcode-terminal
     ```
 
