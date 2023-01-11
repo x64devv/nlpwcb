@@ -1,0 +1,17 @@
+{
+  "name": "nlpwcb",
+  "version": "1.0.0",
+  "description": "This is a demo whatsapp chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "x64dev",
+  "license": "ISC",
+  "dependencies": {
+    "@caijs/console-connector": "^1.0.1",
+    "@nlpjs/basic": "^4.26.0",
+    "node-nlp": "^4.26.0",
+    "whatsapp-web.js": "^1.18.4"
+  }
+}
